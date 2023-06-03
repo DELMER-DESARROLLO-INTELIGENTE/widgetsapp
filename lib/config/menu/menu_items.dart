@@ -54,5 +54,17 @@ const appMenuItems = <MenuItem>[
     link: '/ui-controls',
     icon: Icons.car_rental_outlined
   ),
+  MenuItem(
+    title: 'Introduccion a la aplicacion',
+    subTitle: 'Tutorial de la aplicacion',
+    link: '/tutorial',
+    icon: Icons.accessible_rounded
+  ),
+  MenuItem(
+    title: 'InfiniteScroll y Pull',
+    subTitle: 'Listas infinitas y pull to refresh',
+    link: '/infinite',
+    icon: Icons.list_alt_rounded
+  ),
 ];
 
